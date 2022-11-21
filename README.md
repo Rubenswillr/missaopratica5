@@ -8,13 +8,13 @@ Gerar dados , gravar e recuperar dados de arquivos textos, manipulação dos dad
 
 🖥️ Todos os códigos apresentados e solicitados neste roteiro de aula, devido organizados em células;
 
-![preview](./pasta/instalação-das-bibliotecas.png)
+![preview](./pasta/Instalação-das-bibliotecas.png)
 
 ![preview](./pasta/importando-as-bibliotecas.png)
 
 ![preview](./pasta/Gerando-os-nomes-e-notas.png)
 
-![preview](./pasta/recuperando-e-gravando-arquivos.png)
+![preview](./pasta/recuperando-e-gravando-os-arquivos.png)
 
 ![preview](./pasta/Separando-as-notas-para-fazer-o-histograma.png)
 
