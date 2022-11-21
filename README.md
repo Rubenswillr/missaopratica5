@@ -36,7 +36,11 @@ Gerar dados , gravar e recuperar dados de arquivos textos, manipulação dos dad
 
 ![preview](./pasta/Wordcloud.png)
 
-### Análise e Conclusão:
-Qual a importância de manipular arquivos de texto?
-Qual a importância de visualizar os dados em um histograma?
-O que significa a visualização por nuvem de palavras?
+## 🛑 Análise e Conclusão:
+### Qual a importância de manipular arquivos de texto?
+R: A importância de manipularmos arquivos de texto é que dessa forma podemos organizar melhor e lidarmos com arquivos maiores de uma forma mais simples, apesar de ser algo ''simples'' manipular arquivos é de extrema importância quando se trata de cuidado com documentações ou controle de notas como vimos no trabalho que foi feito.
+
+### Qual a importância de visualizar os dados em um histograma?
+R: O histograma é de suma importância para sabermos com que frequência algo ocorre, podendo assim visualizar o padrão de comportamento ou como no trabalho o número de vezes em que a nota de repete com importância na análise de dados, assim como também na manipulação de textos.
+### O que significa a visualização por nuvem de palavras?
+R: A wordcloud assim como o histograma também serve para termos de forma visual algo que é repetido várias vezes, como palavras usadas, números, analisar feedbacks e afins. A wordcloud é muito utilizada em dinâmicas onde é pedido para um grupo descrever com uma palavra o que está sentindo e com isso ter um controle de como as pessoas estão.
