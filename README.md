@@ -26,8 +26,9 @@ Gerar dados , gravar e recuperar dados de arquivos textos, manipulação dos dad
 
 
 
-Os resultados da execução dos códigos também devem ser apresentados;
-![preview](./pasta/Resultados-gerar-nomes-e-nota.png)
+## 🏁 Os resultados da execução dos códigos também devem ser apresentados;
+
+![preview](./pasta/Resultados-gerar-nome-e-nota.png)
 
 ![preview](./pasta/Separando-as-notas-para-fazer-o-histograma.png)
 
@@ -35,7 +36,7 @@ Os resultados da execução dos códigos também devem ser apresentados;
 
 ![preview](./pasta/Wordcloud.png)
 
-Análise e Conclusão:
+### Análise e Conclusão:
 Qual a importância de manipular arquivos de texto?
 Qual a importância de visualizar os dados em um histograma?
 O que significa a visualização por nuvem de palavras?
