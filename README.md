@@ -1,3 +1,5 @@
+> Trabalho desenvolvido para a faculdade Estácio de Sá, primeiro semestre do curso Desenvolvimento Full Stack
+
 # 📗 Título da Prática:
 
 Implementação de um programa para maniupular dados de um arquivo texto e visualizá-los em um histograma e nuvem de palavras.
