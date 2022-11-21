@@ -6,7 +6,7 @@ Implementação de um programa para maniupular dados de um arquivo texto e visua
 
 Gerar dados , gravar e recuperar dados de arquivos textos, manipulação dos dados para visualização em um histograma, manipular os dados para visualização em um nuvem de palavras.
 
-🖥️ Todos os códigos apresentados e solicitados neste roteiro de aula, devido organizados em células;
+## 🖥️ Todos os códigos apresentados e solicitados neste roteiro de aula, devido organizados em células;
 
 ![preview](./pasta/Instalação-das-bibliotecas.png)
 
@@ -15,8 +15,6 @@ Gerar dados , gravar e recuperar dados de arquivos textos, manipulação dos dad
 ![preview](./pasta/Gerando-os-nomes-e-notas.png)
 
 ![preview](./pasta/recuperando-e-gravando-os-arquivos.png)
-
-![preview](./pasta/Separando-as-notas-para-fazer-o-histograma.png)
 
 ![preview](./pasta/Colocando-no-histograma.png)
 
@@ -29,6 +27,14 @@ Gerar dados , gravar e recuperar dados de arquivos textos, manipulação dos dad
 
 
 Os resultados da execução dos códigos também devem ser apresentados;
+![preview](./pasta/Resultados-gerar-nomes-e-nota.png)
+
+![preview](./pasta/Separando-as-notas-para-fazer-o-histograma.png)
+
+![preview](./pasta/Histograma.png)
+
+![preview](./pasta/Wordcloud.png)
+
 Análise e Conclusão:
 Qual a importância de manipular arquivos de texto?
 Qual a importância de visualizar os dados em um histograma?
