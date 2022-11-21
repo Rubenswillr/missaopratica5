@@ -8,6 +8,8 @@ Gerar dados , gravar e recuperar dados de arquivos textos, manipulação dos dad
 
 Todos os códigos apresentados e solicitados neste roteiro de aula, devido organizados em células;
 
+![preview](./pasta/importando as bibliotecas.jpg)
+
 Os resultados da execução dos códigos também devem ser apresentados;
 Análise e Conclusão:
 Qual a importância de manipular arquivos de texto?
