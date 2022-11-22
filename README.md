@@ -22,7 +22,6 @@ Gerar dados , gravar e recuperar dados de arquivos textos, manipulação dos dad
 
 ![preview](./pasta/Transformando-os-números-para-forma-extensa.png)
 
-![preview](./pasta/Numeros-extensos-para-utilização.png)
 
 ![preview](./pasta/Fazendo-a-wordcloud.png)
 
@@ -35,6 +34,8 @@ Gerar dados , gravar e recuperar dados de arquivos textos, manipulação dos dad
 ![preview](./pasta/Separando-as-notas-para-fazer-o-histograma.png)
 
 ![preview](./pasta/Histograma.png)
+
+![preview](./pasta/Numeros-extensos-para-utilização.png)
 
 ![preview](./pasta/Wordcloud.png)
 
