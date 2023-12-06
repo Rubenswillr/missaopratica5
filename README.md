@@ -2,7 +2,7 @@
 
 # 📗 Título da Prática:
 
-Implementação de um programa para maniupular dados de um arquivo texto e visualizá-los em um histograma e nuvem de palavras.
+Implementação de um programa para manipular dados de um arquivo texto e visualizá-los em um histograma e nuvem de palavras.
 
 ## 💡 Objetivo da Prática:
 
